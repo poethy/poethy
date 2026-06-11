@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Hyvento">
-    <img src="https://img.shields.io/badge/Dev_%2F_CFO_@-Hyvento-1f2d24?style=for-the-badge&labelColor=0a0f0c&logo=githubsponsors&logoColor=4ade80" alt="Dev / CFO @ Hyvento"/>
+    <img src="https://img.shields.io/badge/Dev_@-Hyvento-1f2d24?style=for-the-badge&labelColor=0a0f0c&logo=githubsponsors&logoColor=4ade80" alt="Dev @ Hyvento"/>
   </a>
   <a href="https://github.com/poethy?tab=followers">
     <img src="https://img.shields.io/github/followers/poethy?style=for-the-badge&labelColor=0a0f0c&color=1f2d24&logo=github&logoColor=4ade80" alt="followers"/>
