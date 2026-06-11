@@ -20,7 +20,7 @@
 
   <clipPath id="type1">
     <rect x="56" y="90" height="24" width="0">
-      <animate attributeName="width" from="0" to="215" begin="0.5s" dur="0.8s" fill="freeze"/>
+      <animate attributeName="width" values="0;0;215;215" keyTimes="0;0.0167;0.0433;1" dur="30s" repeatCount="indefinite"/>
     </rect>
   </clipPath>
   <g clip-path="url(#type1)">
@@ -28,7 +28,7 @@
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="1.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" keyTimes="0;0.05" calcMode="discrete" dur="30s" repeatCount="indefinite"/>
     <text x="56" y="140" class="line w">Juan José Ospina Orozco — software engineer</text>
     <rect x="468" y="127" width="22" height="7" fill="#fcd116"/>
     <rect x="468" y="134" width="22" height="3.5" fill="#003893"/>
@@ -37,7 +37,7 @@
 
   <clipPath id="type2">
     <rect x="56" y="154" height="24" width="0">
-      <animate attributeName="width" from="0" to="670" begin="2.2s" dur="2.2s" fill="freeze"/>
+      <animate attributeName="width" values="0;0;670;670" keyTimes="0;0.0733;0.1467;1" dur="30s" repeatCount="indefinite"/>
     </rect>
   </clipPath>
   <g clip-path="url(#type2)">
@@ -45,12 +45,12 @@
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="4.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" keyTimes="0;0.15" calcMode="discrete" dur="30s" repeatCount="indefinite"/>
     <text x="56" y="204" class="line a">Hola, mundo — construyo cosas desde Colombia</text>
   </g>
 
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="5.1s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" keyTimes="0;0.17" calcMode="discrete" dur="30s" repeatCount="indefinite"/>
     <text x="56" y="236" class="line g">poethy@dev:~$ </text>
     <rect x="183" y="222" width="9" height="18" fill="#fbbf24">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite" begin="5.1s"/>

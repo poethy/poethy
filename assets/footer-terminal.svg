@@ -11,7 +11,7 @@
   <rect x="30" y="14" width="820" height="92" rx="10" fill="#0d1410" stroke="#1f2d24" stroke-width="1.5"/>
 
   <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.3s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01;0.0367;1" dur="30s" repeatCount="indefinite"/>
     <text x="56" y="52" class="line"><tspan class="g">poethy@dev:~$ </tspan><tspan class="w">exit</tspan></text>
     <text x="56" y="84" class="line m">[Process completed — hasta pronto 👋]</text>
   </g>
