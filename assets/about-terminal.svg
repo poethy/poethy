@@ -1,0 +1,74 @@
+<svg width="880" height="340" viewBox="0 0 880 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">About Juan José — poethy — terminal output</title>
+  <style>
+    .line { font-family: 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 16px; }
+    .bar  { font-family: 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 13px; }
+    .g { fill: #4ade80; }
+    .w { fill: #e2e8f0; }
+    .m { fill: #a3b8ad; }
+    .a { fill: #fbbf24; }
+  </style>
+
+  <rect width="880" height="340" rx="12" fill="#0a0f0c"/>
+  <rect x="30" y="22" width="820" height="300" rx="10" fill="#0d1410" stroke="#1f2d24" stroke-width="1.5"/>
+
+  <circle cx="58" cy="48" r="6" fill="#f87171"/>
+  <circle cx="80" cy="48" r="6" fill="#fbbf24"/>
+  <circle cx="102" cy="48" r="6" fill="#4ade80"/>
+  <text x="440" y="53" text-anchor="middle" class="bar m">juan@poethy: ~/about.txt</text>
+  <line x1="31" y1="68" x2="849" y2="68" stroke="#1f2d24"/>
+
+  <clipPath id="typeCmd">
+    <rect x="56" y="86" height="24" width="0">
+      <animate attributeName="width" from="0" to="290" begin="0.3s" dur="0.8s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#typeCmd)">
+    <text x="56" y="104" class="line"><tspan class="g">poethy@dev:~$ </tspan><tspan class="w">cat about.txt</tspan></text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.3s" fill="freeze"/>
+    <text x="56" y="138" class="line m">name:</text>
+    <text x="200" y="138" class="line w">Juan José Ospina — a.k.a. "poethy"</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.45s" fill="freeze"/>
+    <text x="56" y="166" class="line m">role:</text>
+    <text x="200" y="166" class="line w">software engineering student</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.6s" fill="freeze"/>
+    <text x="56" y="194" class="line m">work:</text>
+    <text x="200" y="194" class="line"><tspan class="w">dev / CFO @ </tspan><tspan class="g">Hyvento</tspan></text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.75s" fill="freeze"/>
+    <text x="56" y="222" class="line m">stack:</text>
+    <text x="200" y="222" class="line w">Angular + TypeScript (mostly)</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.9s" fill="freeze"/>
+    <text x="56" y="250" class="line m">learning:</text>
+    <text x="200" y="250" class="line w">Next.js, Astro &amp; AI integrations</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="2.05s" fill="freeze"/>
+    <text x="56" y="278" class="line m">daily:</text>
+    <text x="200" y="278" class="line a">aprendiendo algo nuevo todos los días</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.25s" begin="2.2s" fill="freeze"/>
+    <text x="56" y="306" class="line m">location:</text>
+    <text x="200" y="306" class="line w">Colombia</text>
+    <rect x="292" y="293" width="22" height="7" fill="#fcd116"/>
+    <rect x="292" y="300" width="22" height="3.5" fill="#003893"/>
+    <rect x="292" y="303.5" width="22" height="3.5" fill="#ce1126"/>
+  </g>
+</svg>

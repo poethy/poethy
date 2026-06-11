@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Hyvento">
-    <img src="https://img.shields.io/badge/dev_@-Hyvento-1f2d24?style=for-the-badge&labelColor=0a0f0c&logo=githubsponsors&logoColor=4ade80" alt="Hyvento"/>
+    <img src="https://img.shields.io/badge/Dev_%2F_CFO_@-Hyvento-1f2d24?style=for-the-badge&labelColor=0a0f0c&logo=githubsponsors&logoColor=4ade80" alt="Dev / CFO @ Hyvento"/>
   </a>
   <a href="https://github.com/poethy?tab=followers">
     <img src="https://img.shields.io/github/followers/poethy?style=for-the-badge&labelColor=0a0f0c&color=1f2d24&logo=github&logoColor=4ade80" alt="followers"/>
@@ -14,42 +14,33 @@
 
 <br/>
 
-## <samp>$ cat about.txt</samp>
-
-```bash
-# Hola! I'm Juan José — but around here I go by poethy
-
-→ 🎓  software engineering student
-→ 💼  developer @Hyvento
-→ 🅰️  building mostly with Angular + TypeScript
-→ 🚀  currently exploring Next.js, Astro & AI integrations
-→ 🌱  aprendiendo algo nuevo todos los días
-→ 📍  Colombia
-```
+<div align="center">
+  <img src="assets/about-terminal.svg" alt="about poethy — cat about.txt terminal output" width="100%"/>
+</div>
 
 <br/>
 
-## <samp>$ ls tech-stack/</samp>
+<h2 align="center"><samp>$ ls tech-stack/</samp></h2>
 
-<samp>frontend/</samp>
+<p align="center"><samp>frontend/</samp></p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,astro,tailwind,sass,html,css&theme=dark" alt="frontend stack"/>
 </p>
 
-<samp>backend/</samp>
+<p align="center"><samp>backend/</samp></p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,python,php,postgres,supabase&theme=dark" alt="backend stack"/>
 </p>
 
-<samp>tools-and-cloud/</samp>
+<p align="center"><samp>tools-and-cloud/</samp></p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,vscode,discordjs&theme=dark" alt="tools and cloud"/>
 </p>
 
-> Strongest with **Angular + TypeScript** — most of my repos live there. Lately shipping with **Next.js** and **Astro** too.
+<p align="center"><sub>Strongest with <b>Angular + TypeScript</b> — most of my repos live there. Lately shipping with <b>Next.js</b> and <b>Astro</b> too.</sub></p>
 
 <br/>
 
