@@ -42,7 +42,7 @@
   <g opacity="0">
     <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.0533;0.0617;1" dur="30s" repeatCount="indefinite"/>
     <text x="56" y="194" class="line m">work:</text>
-    <text x="200" y="194" class="line"><tspan class="w">dev / CFO @ </tspan><tspan class="g">Hyvento</tspan></text>
+    <text x="200" y="194" class="line"><tspan class="w">dev @ </tspan><tspan class="g">Hyvento</tspan></text>
   </g>
 
   <g opacity="0">
