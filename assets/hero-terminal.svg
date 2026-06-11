@@ -1,0 +1,59 @@
+<svg width="880" height="280" viewBox="0 0 880 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Juan José Ospina — poethy — terminal profile banner</title>
+  <style>
+    .line { font-family: 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 16px; }
+    .bar  { font-family: 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 13px; }
+    .g { fill: #4ade80; }
+    .w { fill: #e2e8f0; }
+    .m { fill: #a3b8ad; }
+    .a { fill: #fbbf24; }
+  </style>
+
+  <rect width="880" height="280" rx="12" fill="#0a0f0c"/>
+  <rect x="30" y="22" width="820" height="236" rx="10" fill="#0d1410" stroke="#1f2d24" stroke-width="1.5"/>
+
+  <circle cx="58" cy="48" r="6" fill="#f87171"/>
+  <circle cx="80" cy="48" r="6" fill="#fbbf24"/>
+  <circle cx="102" cy="48" r="6" fill="#4ade80"/>
+  <text x="440" y="53" text-anchor="middle" class="bar m">juan@poethy: ~</text>
+  <line x1="31" y1="68" x2="849" y2="68" stroke="#1f2d24"/>
+
+  <clipPath id="type1">
+    <rect x="56" y="90" height="24" width="0">
+      <animate attributeName="width" from="0" to="215" begin="0.5s" dur="0.8s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#type1)">
+    <text x="56" y="108" class="line"><tspan class="g">poethy@dev:~$ </tspan><tspan class="w">whoami</tspan></text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="1.5s" fill="freeze"/>
+    <text x="56" y="140" class="line w">Juan José Ospina Orozco — software engineer</text>
+    <rect x="468" y="127" width="22" height="7" fill="#fcd116"/>
+    <rect x="468" y="134" width="22" height="3.5" fill="#003893"/>
+    <rect x="468" y="137.5" width="22" height="3.5" fill="#ce1126"/>
+  </g>
+
+  <clipPath id="type2">
+    <rect x="56" y="154" height="24" width="0">
+      <animate attributeName="width" from="0" to="670" begin="2.2s" dur="2.2s" fill="freeze"/>
+    </rect>
+  </clipPath>
+  <g clip-path="url(#type2)">
+    <text x="56" y="172" class="line"><tspan class="g">poethy@dev:~$ </tspan><tspan class="w">echo "Hola, mundo — construyo cosas desde Colombia"</tspan></text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="4.5s" fill="freeze"/>
+    <text x="56" y="204" class="line a">Hola, mundo — construyo cosas desde Colombia</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="5.1s" fill="freeze"/>
+    <text x="56" y="236" class="line g">poethy@dev:~$ </text>
+    <rect x="183" y="222" width="9" height="18" fill="#fbbf24">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite" begin="5.1s"/>
+    </rect>
+  </g>
+</svg>
