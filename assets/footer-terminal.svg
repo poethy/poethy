@@ -1,0 +1,18 @@
+<svg width="880" height="120" viewBox="0 0 880 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Terminal session closing — hasta pronto</title>
+  <style>
+    .line { font-family: 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 16px; }
+    .g { fill: #4ade80; }
+    .w { fill: #e2e8f0; }
+    .m { fill: #a3b8ad; }
+  </style>
+
+  <rect width="880" height="120" rx="12" fill="#0a0f0c"/>
+  <rect x="30" y="14" width="820" height="92" rx="10" fill="#0d1410" stroke="#1f2d24" stroke-width="1.5"/>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.3s" fill="freeze"/>
+    <text x="56" y="52" class="line"><tspan class="g">poethy@dev:~$ </tspan><tspan class="w">exit</tspan></text>
+    <text x="56" y="84" class="line m">[Process completed — hasta pronto 👋]</text>
+  </g>
+</svg>
