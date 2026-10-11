@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="assets/hero-terminal.svg" alt="Juan José Ospina — poethy — terminal banner" width="100%"/>
+  <img src="assets/hero-terminal.svg" alt="Juan José Ospina — poethy — macOS terminal banner" width="100%"/>
 </div>
 
 <p align="center">
   <a href="https://github.com/Hyvento">
-    <img src="https://img.shields.io/badge/Dev_@-Hyvento-1f2d24?style=for-the-badge&labelColor=0a0f0c&logo=githubsponsors&logoColor=4ade80" alt="Dev @ Hyvento"/>
+    <img src="https://img.shields.io/badge/Dev_@-Hyvento-e8e8ed?style=for-the-badge&labelColor=f5f5f7&logo=githubsponsors&logoColor=1d1d1f" alt="Dev @ Hyvento"/>
   </a>
   <a href="https://github.com/poethy?tab=followers">
-    <img src="https://img.shields.io/github/followers/poethy?style=for-the-badge&labelColor=0a0f0c&color=1f2d24&logo=github&logoColor=4ade80" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/poethy?style=for-the-badge&labelColor=f5f5f7&color=e8e8ed&logo=github&logoColor=1d1d1f" alt="followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=poethy&style=for-the-badge&color=4ade80&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=poethy&style=for-the-badge&color=0071e3&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
 <br/>
@@ -25,19 +25,19 @@
 <p align="center"><samp>frontend/</samp></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,astro,tailwind,sass,html,css&theme=dark" alt="frontend stack"/>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,nextjs,astro,tailwind,sass,html,css&theme=light" alt="frontend stack"/>
 </p>
 
 <p align="center"><samp>backend/</samp></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,python,php,postgres,supabase&theme=dark" alt="backend stack"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,python,php,postgres,supabase&theme=light" alt="backend stack"/>
 </p>
 
 <p align="center"><samp>tools-and-cloud/</samp></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,vscode,discordjs&theme=dark" alt="tools and cloud"/>
+  <img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,vscode,discordjs&theme=light" alt="tools and cloud"/>
 </p>
 
 <p align="center"><sub>Strongest with <b>Angular + TypeScript</b> — most of my repos live there. Lately shipping with <b>Next.js</b> and <b>Astro</b> too.</sub></p>
@@ -47,16 +47,16 @@
 ## <samp>$ git log --stat</samp>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poethy&show_icons=true&rank_icon=github&bg_color=0a0f0c&title_color=4ade80&text_color=a3b8ad&icon_color=fbbf24&border_color=1f2d24" height="170" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poethy&layout=compact&langs_count=8&bg_color=0a0f0c&title_color=4ade80&text_color=a3b8ad&border_color=1f2d24" height="170" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=poethy&show_icons=true&rank_icon=github&bg_color=ffffff&title_color=1d1d1f&text_color=6e6e73&icon_color=0071e3&border_color=d2d2d7" height="170" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poethy&layout=compact&langs_count=8&bg_color=ffffff&title_color=1d1d1f&text_color=6e6e73&border_color=d2d2d7" height="170" alt="top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=poethy&background=0a0f0c&border=1f2d24&ring=4ade80&fire=fbbf24&currStreakLabel=4ade80&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=a3b8ad&dates=5c6b61" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=poethy&background=ffffff&border=d2d2d7&ring=0071e3&fire=ff9500&currStreakLabel=0071e3&currStreakNum=1d1d1f&sideNums=1d1d1f&sideLabels=6e6e73&dates=86868b" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poethy&bg_color=0a0f0c&color=a3b8ad&line=4ade80&point=fbbf24&area=true&hide_border=false&border_color=1f2d24" width="100%" alt="contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poethy&bg_color=ffffff&color=6e6e73&line=0071e3&point=1a7f37&area=true&hide_border=false&border_color=d2d2d7" width="100%" alt="contribution graph"/>
 </p>
 
 <p align="center">
@@ -69,10 +69,10 @@
 
 <p align="center">
   <a href="https://instagram.com/ospinaorozcojuan">
-    <img src="https://img.shields.io/badge/Instagram-@ospinaorozcojuan-1f2d24?style=for-the-badge&labelColor=0a0f0c&logo=instagram&logoColor=4ade80" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-@ospinaorozcojuan-e8e8ed?style=for-the-badge&labelColor=f5f5f7&logo=instagram&logoColor=1d1d1f" alt="Instagram"/>
   </a>
   <a href="mailto:orozcoateneajuan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-orozcoateneajuan@gmail.com-1f2d24?style=for-the-badge&labelColor=0a0f0c&logo=gmail&logoColor=4ade80" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-orozcoateneajuan@gmail.com-e8e8ed?style=for-the-badge&labelColor=f5f5f7&logo=gmail&logoColor=1d1d1f" alt="Email"/>
   </a>
 </p>
 

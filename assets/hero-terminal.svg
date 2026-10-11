@@ -1,22 +1,30 @@
-<svg width="880" height="280" viewBox="0 0 880 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
-  <title id="title">Juan José Ospina — poethy — terminal profile banner</title>
+<svg width="880" height="290" viewBox="0 0 880 290" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">Juan José Ospina — poethy — macOS terminal profile banner</title>
+  <defs>
+    <linearGradient id="tb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6f6f6"/><stop offset="1" stop-color="#e8e8e8"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.16"/></filter>
+    <clipPath id="win"><rect x="30" y="18" width="820" height="246" rx="12"/></clipPath>
+  </defs>
   <style>
-    .line { font-family: 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 16px; }
-    .bar  { font-family: 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 13px; }
-    .g { fill: #4ade80; }
-    .w { fill: #e2e8f0; }
-    .m { fill: #a3b8ad; }
-    .a { fill: #fbbf24; }
+    .line { font-family: 'SF Mono', Menlo, Monaco, 'Cascadia Code', Consolas, monospace; font-size: 16px; }
+    .bar  { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; }
+    .g { fill: #1a7f37; }
+    .w { fill: #1d1d1f; }
+    .m { fill: #6e6e73; }
+    .a { fill: #0071e3; }
   </style>
 
-  <rect width="880" height="280" rx="12" fill="#0a0f0c"/>
-  <rect x="30" y="22" width="820" height="236" rx="10" fill="#0d1410" stroke="#1f2d24" stroke-width="1.5"/>
+  <rect x="30" y="18" width="820" height="246" rx="12" fill="#ffffff" filter="url(#shadow)"/>
+  <g clip-path="url(#win)">
+    <rect x="30" y="18" width="820" height="46" fill="url(#tb)"/>
+    <line x1="30" y1="64.5" x2="850" y2="64.5" stroke="#d2d2d7"/>
+  </g>
+  <rect x="30.5" y="18.5" width="819" height="245" rx="11.5" stroke="#c7c7cc"/>
 
-  <circle cx="58" cy="48" r="6" fill="#f87171"/>
-  <circle cx="80" cy="48" r="6" fill="#fbbf24"/>
-  <circle cx="102" cy="48" r="6" fill="#4ade80"/>
-  <text x="440" y="53" text-anchor="middle" class="bar m">juan@poethy: ~</text>
-  <line x1="31" y1="68" x2="849" y2="68" stroke="#1f2d24"/>
+  <circle cx="56" cy="41" r="6.5" fill="#ff5f57" stroke="#e0443e" stroke-width="0.5"/>
+  <circle cx="78" cy="41" r="6.5" fill="#febc2e" stroke="#dea123" stroke-width="0.5"/>
+  <circle cx="100" cy="41" r="6.5" fill="#28c840" stroke="#1aab29" stroke-width="0.5"/>
+  <text x="440" y="46" text-anchor="middle" class="bar m">poethy — -zsh — 80×24</text>
 
   <clipPath id="type1">
     <rect x="56" y="90" height="24" width="0">
@@ -52,8 +60,8 @@
   <g opacity="0">
     <animate attributeName="opacity" values="0;1" keyTimes="0;0.17" calcMode="discrete" dur="30s" repeatCount="indefinite"/>
     <text x="56" y="236" class="line g">poethy@dev:~$ </text>
-    <rect x="183" y="222" width="9" height="18" fill="#fbbf24">
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite" begin="5.1s"/>
+    <rect x="183" y="222" width="9" height="18" fill="#1d1d1f" opacity="0.75">
+      <animate attributeName="opacity" values="0.75;0.75;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite" begin="5.1s"/>
     </rect>
   </g>
 </svg>
