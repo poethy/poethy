@@ -59,10 +59,6 @@
   <img src="https://ghchart.rshah.org/0071e3/poethy" width="100%" alt="contribution graph"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/poethy/poethy/output/snake.svg" alt="contribution snake" width="100%"/>
-</p>
-
 <br/>
 
 ## <samp>$ ping poethy</samp>
