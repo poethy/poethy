@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poethy&bg_color=ffffff&color=6e6e73&line=0071e3&point=1a7f37&area=true&hide_border=false&border_color=d2d2d7" width="100%" alt="contribution graph"/>
+  <img src="https://ghchart.rshah.org/0071e3/poethy" width="100%" alt="contribution graph"/>
 </p>
 
 <p align="center">
