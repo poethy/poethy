@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero-terminal.svg" alt="Juan José Ospina — poethy — macOS terminal banner" width="100%"/>
+  <img src="assets/hero-window.svg" alt="Juan José Ospina — poethy — macOS terminal banner" width="100%"/>
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/about-terminal.svg" alt="about poethy — cat about.txt terminal output" width="100%"/>
+  <img src="assets/about-window.svg" alt="about poethy — cat about.txt terminal output" width="100%"/>
 </div>
 
 <br/>
@@ -77,5 +77,5 @@
 </p>
 
 <div align="center">
-  <img src="assets/footer-terminal.svg" alt="terminal session closing" width="100%"/>
+  <img src="assets/footer-window.svg" alt="terminal session closing" width="100%"/>
 </div>
